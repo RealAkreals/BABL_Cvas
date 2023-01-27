@@ -13,7 +13,7 @@
 		<h1><?php echo $configs['title']; ?></h1>
 		<p>САМАЯ ЛУЧШАЯ ПОРОДИЯ НА БРАВЛ СТАРС</p>
 		<h1>Скачать:</h1>
-		<a href="bablCvas_PREALPHA1.0.zip" download="">pre alpha 0.1</a>
+		<a href="https://disk.yandex.ru/d/2PzRTLFeCvab_w">pre alpha 0.1</a>
 	</center>
 </body>
 </html>
